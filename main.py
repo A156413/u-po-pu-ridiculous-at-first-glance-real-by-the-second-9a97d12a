@@ -18,7 +18,7 @@ TEXT = (
     "mowers scratch the panels, "
     "herbicide poisons the soil, "
     "so the cheapest crew that fertilizes "
-    "as it eats already bills "
+    "as it eats already charges "
     "a thousand dollars an acre."
 )
 
